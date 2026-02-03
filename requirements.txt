@@ -1,0 +1,7 @@
+python-telegram-bot[job-queue]>=20.0
+openai>=1.0.0
+pytz
+pytesseract
+Pillow
+httpx
+python-dotenv
